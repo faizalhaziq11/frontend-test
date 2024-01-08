@@ -1,8 +1,3 @@
-// const btn = document.querySelector("#button");
-// btn.addEventListener("click", () => {
-//   console.log("click");
-// });
-
 const menuBtn = document.querySelector("#menu-button");
 menuBtn.addEventListener("click", () => {
   const menuItemList = document.querySelector("#menu-item-list");
